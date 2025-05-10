@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Proto2D.sln"
+    "dotnet.defaultSolution": "2d-driver-game.sln"
 }
